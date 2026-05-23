@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://learntrack.app/sitemap.xml
